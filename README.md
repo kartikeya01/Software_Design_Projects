@@ -14,13 +14,13 @@ Create a class called HeartRates. The class attributes should include the person
 Note:  The factory needs to be implemented as public final class with a static method.  Refer to the following as an example.
 
 
-public final class BinaomialTreeFactory {
+	public final class BinaomialTreeFactory {
 
-	public static Node create(int T, int P) {
+		public static Node create(int T, int P) {
+
+		}
 
 	}
-
-}
 
 
 2. Create a navigator with one parameter N, for the number of iterations.  For each iteration:  
